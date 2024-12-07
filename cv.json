@@ -38,8 +38,8 @@
         "name": "Almapiedra SRL",
         "position": "Programación Web",
         "url": "https://almapiedra.com.ar/#!/-inicio/",
-        "startDate": "2023-01-01",
-        "endDate": "2024-01-01",
+        "startDate": "2023-05-01",
+        "endDate": "2024-05-01",
         "summary": "Diseño y desarrollo web. Desarrollé una plataforma de servicios y productos. Escalé los servicios para soportar la carga de más de cientos de peticiones al día.",
         "highlights": [
           "Started the company"
@@ -49,7 +49,7 @@
         "name": "Feria ArteCo",
         "position": "Diseño web, social media manager",
         "url": "https://corrientesarteco.com/",
-        "startDate": "2022-12-01",
+        "startDate": "2022-11-01",
         "endDate": "2023-07-01",
         "summary": "Diseño web, social media manager crecimiento +30%. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
         "highlights": [
@@ -57,11 +57,11 @@
         ]
       },
       {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "name": "Web Juani Cabruja",
+        "position": "FrontEnd Developer",
+        "startDate": "2024-03-01",
+        "endDate": "2025-05-01",
+        "summary": "Desarrollé una plataforma de servicio y producto del artista y vj.",
         "highlights": [
           "Started the company"
         ]
