@@ -1,7 +1,7 @@
 {
     "basics": {
       "name": "Matías Gabriel Zelarayán",
-      "label": "Full Stack Developer con más de 3 años de experiencia & conceptual artist / visual artist ",
+      "label": "Software Developer con más de 3 años de experiencia & conceptual artist | visual artist",
       "image": "/me.webp",
       "email": "matiaszelarayandev@gmail.com",
       "phone": "+54 381 000 0000",
@@ -10,7 +10,7 @@
       "location": {
         "address": "",
         "postalCode": "2000",
-        "city": "Rosario, Sta Fe.",
+        "city": "Rosario, Santa Fe",
         "countryCode": "AR",
         "region": "Argentina"
       },
@@ -83,11 +83,11 @@
       "url": "https://unnoba.edu.ar/",
       "area": "Tecnicatura en diseño y desarrollo de aplicaciones multiplataforma",
       "studyType": "Tecnicatura",
-      "startDate": "2004-01-01",
-      "endDate": "2006-01-01",
+      "startDate": "2024-02-01",
+      "endDate": "2026-07-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL"
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
       ]
     }],
     "awards": [{
@@ -193,16 +193,30 @@
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
         ]
+      },
+      {
+        "name": "Kotlin",
+        "level": "Junior",
+        "keywords":[
+          "Desarrollo Web","Frontend","Mobile"
+        ]
+      },
+      {
+        "name":"Flutter",
+        "level": "Junior",
+        "keywords":[
+          "Desarrollo Web", "Fullstack", "Mobile" 
+        ]
       }
     ],
     "languages": [
       {
-        "language": "Spanish",
-        "fluency": "Native speaker"
+        "language": "Español",
+        "fluency": "Nativo"
       },
       {
-        "language": "English",
-        "fluency": "Advanced"
+        "language": "Ingles",
+        "fluency": "Intermedio"
       }
     ],
     "interests": [{
@@ -218,33 +232,33 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Almapiedra SRL",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Restauración de inmuebles y objetos de valor patrimonial",
         "highlights": [
-          "Elige tu propia aventura",
+          "Diseño reponsive",
           "En desarrollo"
         ],
-        "url": "https://mars.codes"
+        "url": "https://almapiedra.com.ar/"
       },
       {
-        "name": "AdventJS",
+        "name": "ArteCo",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "impulsar el desarrollo y la expansión del sector artístico, promoviendo la difusión y venta de obras de arte de nuestro país y los países limítrofes.",
         "highlights": [
-          "+1 millón de visitas",
-          "Multidioma",
+          "Diseño reponsive",
+          "Multiplataforma",
           "JavaScript & TypeScript"
         ],
-        "url": "https://adventjs.dev"
+        "url": "https://corrientesarteco.com/"
       },
       {
-        "name": "Codember",
+        "name": "Web Juani Cabruja",
         "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
+        "description": "Artista visual, VJ",
         "highlights": [
           "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
+          "Productos y servicios"
         ],
         "url": "https://codember.dev"
       },
