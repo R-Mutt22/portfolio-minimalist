@@ -1,4 +1,4 @@
-# Portafolio Minimalista Kit: Basica 
+# Portafolio Minimalista Kit: Basico 
 
 <div align="center">
 <h2>
@@ -27,7 +27,6 @@ Dentro de tu proyecto Astro, verás las siguientes carpetas y archivos:
 ```text
 /
 ├── public/
-│   └── favicon.ico
 │   └── favicon.svg
 │   └── me.webp
 ├── src/
