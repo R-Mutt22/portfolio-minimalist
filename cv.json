@@ -40,7 +40,7 @@
         "url": "https://almapiedra.com.ar/#!/-inicio/",
         "startDate": "2023-05-01",
         "endDate": "2024-05-01",
-        "summary": "Diseño y desarrollo web. Desarrollé una plataforma de servicios y productos. Escalé los servicios para soportar la carga de más de cientos de peticiones al día.",
+        "summary": "Diseño y desarrollo web. Desarrollé una plataforma de servicios y productos. Escalé los servicios para soportar la carga de más rapida.",
         "highlights": [
           "Started the company"
         ]
@@ -81,10 +81,93 @@
     "education": [{
       "institution": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
       "url": "https://unnoba.edu.ar/",
-      "area": "Tecnicatura en diseño y desarrollo de aplicaciones multiplataforma",
+      "area": "Tecnicatura en diseño y desarrollo de aplicaciones multiplataforma.",
       "studyType": "Tecnicatura",
       "startDate": "2024-02-01",
       "endDate": "2026-07-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "One Oracle Next Education",
+      "url": "https://www.oracle.com/ar/education/oracle-next-education/",
+      "area": "Desarrollo de softwares y aplicaciones. Especialización Backend Java.",
+      "studyType": "Bootcamp",
+      "startDate": "2024-01-05",
+      "endDate": "2024-12-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Codo a Codo 4.0",
+      "url": "https://buenosaires.gob.ar/informe/full-stack-con-java-cac-40",
+      "area": "Programación Full Stack, desarrollo en Java.",
+      "studyType": "Bootcamp",
+      "startDate": "2024-02-01",
+      "endDate": "2024-07-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },{
+      "institution": "Heavy Duty Camp - HEAVY DUTY BUILDERS",
+      "url": "https://heavyduty.builders/",
+      "area": "Desarrollo de DApps en Solana.",
+      "studyType": "Bootcamp",
+      "startDate": "2024-02-01",
+      "endDate": "2024-11-25",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "AWS Re/Start - Potrero digital fundación Compromiso",
+      "url": "https://www.potrerodigital.org/aws",
+      "area": "Soluciones en la nube, cloud practitioner.",
+      "studyType": "Curso",
+      "startDate": "2023-08-05",
+      "endDate": "2023-12-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnológica Nacional - Argentina Programa 4.0",
+      "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.argentina.gob.ar/sites/default/files/13._utn_-_desarrollador_java.pdf",
+      "area": "Desarrollo Java. Especialización Backend Java.",
+      "studyType": "Curso",
+      "startDate": "2023-07-05",
+      "endDate": "2023-11-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": " Universidad Nacional de Rosario - Extensión Escuela de Oficios.",
+      "url": "https://unr.edu.ar/oficios/",
+      "area": "Desarrollo de software, programación Java y aplicaciones de escritorio.",
+      "studyType": "Curso",
+      "startDate": "2023-01-05",
+      "endDate": "2023-07-01",
+      "score": "9.0",
+      "courses": [
+        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Argentina Programa - Argentina Programa 4.0",
+      "url": "https://www.linkedin.com/school/programa-argentina/",
+      "area": "Desarrollo de softwares y aplicaciones. Especialización Backend Java.",
+      "studyType": "Bootcamp",
+      "startDate": "2022-02-05",
+      "endDate": "2023-12-01",
       "score": "9.0",
       "courses": [
         "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
