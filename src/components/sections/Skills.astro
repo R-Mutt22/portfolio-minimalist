@@ -3,6 +3,7 @@ import Section from "../Section.astro"
 import HTML from "@/icons/html.astro"
 import CSS from "@/icons/css.astro"
 import JavaScript from "@/icons/javascript.astro"
+import Java from "@/icons/java.astro"
 import TypeScript from "@/icons/type.astro"
 import Node from "@/icons/node.astro"
 import MySQL from "@/icons/sql.astro"
@@ -20,6 +21,7 @@ const SKILLS_ICONS: Record<string, any> = {
   HTML,
   CSS,
   JavaScript,
+  Java,
   Angular,
   TypeScript,
   Node,
@@ -33,7 +35,7 @@ const SKILLS_ICONS: Record<string, any> = {
   Flutter,
 }
 ---
-<Section title="Habilidades">
+<Section title="">
   <ul>
     {
       skills.map(({ name }) => {

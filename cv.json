@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "Matías Gabriel Zelarayán",
-      "label": "Software Developer con más de 3 años de experiencia & conceptual artist | visual artist",
+      "name": "Matías Zelarayán",
+      "label": "Software Developer",
       "image": "/me.webp",
       "email": "matiaszelarayandev@gmail.com",
       "phone": "+54 381 000 0000",
       "url": "https://github.com/R-Mutt22",
-      "summary": "+2 años de experiencia como Desarrollador Java. Actualmente estudio la TECNICATURA EN DISEÑO Y DESARROLLO DE APLICACIONES MULTIPLATAFORMA (A DISTANCIA). Vivo en Rosario, Argentina. He trabajado en diferentes entornos: realizando analisis funcional y requerimientos de sistema, diseño de interface como, de la arquitectura del sistema en equipos diversos y multidisciplinarios.",
+      "summary": "Tengo +3 años de experiencia como Desarrollador. Actualmente estudio la Tecnicatura Universitaria en Diseño y Desarrollo de Aplicaciones Multiplataforma de la Universidad Nacional del Noroeste de Buenos Aires. Vivo en Rosario, Argentina. He trabajado en diferentes entornos realizando análisis funcional y requerimientos de sistema, diseño de interfaces y arquitectura. He trabajado en equipos diversos y multidisciplinarios.",
       "location": {
         "address": "",
         "postalCode": "2000",
@@ -35,33 +35,33 @@
     },
     "work": [
       {
+        "name": "Web Juani Cabruja",
+        "position": "UI Design & FrontEnd Developer",
+        "startDate": "2024-03-01",
+        "endDate": "2025-05-01",
+        "summary": "Desarrollé el website del artista.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
         "name": "Almapiedra SRL",
-        "position": "Programación Web",
+        "position": "Web Developer",
         "url": "https://almapiedra.com.ar/#!/-inicio/",
         "startDate": "2023-05-01",
         "endDate": "2024-05-01",
-        "summary": "Diseño y desarrollo web. Desarrollé una plataforma de servicios y productos. Escalé los servicios para soportar la carga de más rapida.",
+        "summary": "Diseño y desarrollo web. Mejoré la plataforma de servicios y productos. Escalé los servicios para soportar la carga más rapida.",
         "highlights": [
           "Started the company"
         ]
       },
       {
         "name": "Feria ArteCo",
-        "position": "Diseño web, social media manager",
+        "position": "Web Desing, Social Media Manager",
         "url": "https://corrientesarteco.com/",
         "startDate": "2022-11-01",
         "endDate": "2023-07-01",
-        "summary": "Diseño web, social media manager crecimiento +30%. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Web Juani Cabruja",
-        "position": "FrontEnd Developer",
-        "startDate": "2024-03-01",
-        "endDate": "2025-05-01",
-        "summary": "Desarrollé una plataforma de servicio y producto del artista y vj.",
+        "summary": "Diseño web & social media management (crecimiento +30%). Fomenté buenas prácticas y mejoras en el rendimiento, además de la rápida entrega de valor a los usuarios.",
         "highlights": [
           "Started the company"
         ]
@@ -91,9 +91,9 @@
       ]
     },
     {
-      "institution": "One Oracle Next Education",
+      "institution": "ONE - Oracle Next Education",
       "url": "https://www.oracle.com/ar/education/oracle-next-education/",
-      "area": "Desarrollo de softwares y aplicaciones. Especialización Backend Java.",
+      "area": "Desarrollo de software y aplicaciones. Especialización Backend Java.",
       "studyType": "Bootcamp",
       "startDate": "2024-01-05",
       "endDate": "2024-12-01",
@@ -128,7 +128,7 @@
     {
       "institution": "AWS Re/Start - Potrero digital fundación Compromiso",
       "url": "https://www.potrerodigital.org/aws",
-      "area": "Soluciones en la nube, cloud practitioner.",
+      "area": "Soluciones en la nube, Cloud Practitioner.",
       "studyType": "Curso",
       "startDate": "2023-08-05",
       "endDate": "2023-12-01",
@@ -150,9 +150,9 @@
       ]
     },
     {
-      "institution": " Universidad Nacional de Rosario - Extensión Escuela de Oficios.",
+      "institution": " Universidad Nacional de Rosario - Extensión Escuela de Oficios",
       "url": "https://unr.edu.ar/oficios/",
-      "area": "Desarrollo de software, programación Java y aplicaciones de escritorio.",
+      "area": "Desarrollo de software, programación Java para desktop apps.",
       "studyType": "Curso",
       "startDate": "2023-01-05",
       "endDate": "2023-07-01",
@@ -162,9 +162,9 @@
       ]
     },
     {
-      "institution": "Argentina Programa - Argentina Programa 4.0",
+      "institution": "Argentina Programa - #YoProgramo",
       "url": "https://www.linkedin.com/school/programa-argentina/",
-      "area": "Desarrollo de softwares y aplicaciones. Especialización Backend Java.",
+      "area": "Perfil web Full Stack Java.",
       "studyType": "Bootcamp",
       "startDate": "2022-02-05",
       "endDate": "2023-12-01",
@@ -197,7 +197,7 @@
         "name": "HTML",
         "level": "Junior",
         "keywords": [
-          "Desarrollo Web", "Frontend"
+          "Desarrollo Web", "Frontend", "Arquitectura"
         ]
       },
       {
@@ -212,6 +212,13 @@
         "level": "Junior",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Junior",
+        "keywords": [
+          "Desarrollo Web", "Backend", "ApiRest"
         ]
       },
       {
@@ -298,7 +305,7 @@
         "fluency": "Nativo"
       },
       {
-        "language": "Ingles",
+        "language": "Inglés",
         "fluency": "Intermedio"
       }
     ],
