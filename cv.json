@@ -35,33 +35,23 @@
     },
     "work": [
       {
-        "name": "Web Juani Cabruja",
-        "position": "UI Design & FrontEnd Developer",
-        "startDate": "2024-03-01",
-        "endDate": "2025-05-01",
-        "summary": "Desarrollé el website del artista.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
         "name": "Almapiedra SRL",
-        "position": "Web Developer",
+        "position": "Desarrollador Web",
         "url": "https://almapiedra.com.ar/#!/-inicio/",
         "startDate": "2023-05-01",
         "endDate": "2024-05-01",
-        "summary": "Diseño y desarrollo web. Mejoré la plataforma de servicios y productos. Escalé los servicios para soportar la carga más rapida.",
+        "summary": "● Reestructuré la página web desde cero, mejorando la experiencia de usuario (UX) y logrando una mejora del 22% en el tiempo de carga. ● Modernicé el código aplicando buenas prácticas de desarrollo web y optimización para buscadores (SEO básico). ● Diseñé la arquitectura técnica base para la futura integración de un sistema de e-commerce.",
         "highlights": [
           "Started the company"
         ]
       },
       {
         "name": "Feria ArteCo",
-        "position": "Web Desing, Social Media Manager",
+        "position": "Analista de Performance",
         "url": "https://corrientesarteco.com/",
         "startDate": "2022-11-01",
         "endDate": "2023-07-01",
-        "summary": "Diseño web & social media management (crecimiento +30%). Fomenté buenas prácticas y mejoras en el rendimiento, además de la rápida entrega de valor a los usuarios.",
+        "summary": "● Optimicé y actualicé la plataforma web para mejorar la experiencia de usuario (UX). ● Coordiné la estrategia en redes sociales y diseñé contenido digital para aumentar la visibilidad y el alcance de los eventos. ● Monitoreé métricas clave, logrando un aumento del 35% en la visibilidad en línea.",
         "highlights": [
           "Started the company"
         ]
@@ -85,9 +75,46 @@
       "studyType": "Tecnicatura",
       "startDate": "2024-02-01",
       "endDate": "2026-07-01",
+      "score": "9.7",
+      "courses": [
+        "Desarrollo Web","Conceptos de Programación","Introducción al Diseño de Interfaz","Análisis Funcional de Aplicaciones Web","Planificación de Proyectos","Maquetación y Desarrollo Web I","Protocolo y Arquitectura Web","Desarrollo de Aplicaciones para Dispositivos Móviles","Sistemas Operativos","Inglés Técnico","Diseño Interactivo","Introducción a la Base de Datos","Maquetación y Desarrollo Web II","Programación Full Stack","Programación Dinámica","Emprendimiento de Negocios","Práctica Profesional y Legislación","Marketing Digital","Seguridad Informática","Proyecto Final"
+      ]
+    }],
+      "certification": [
+      {
+      "institution": "DevOps - Alura Latam",
+      "url": "https://www.aluracursos.com/formacion-devops",
+      "area": "Formación DevOps: Colaboración y calidad del software.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-07-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "Linux","Git","Docker","Kubernetes","CI/CD","Monitorización","Cloud Computing","Infraestructura como Código"
+      ]
+    },
+    {
+      "institution": "xAcademy Dev. Technology with Purpose Foundation ",
+      "url": "https://technologywithpurpose.org/xacademy/xacademy-dev/",
+      "area": "Programación Full Stack MEAN.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-07-01",
+      "score": "9.0",
+      "courses": [
+        "Angular","1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "ONE LAB Tech Advance - Certificación OCI Foundations Associate",
+      "url": "https://www.oracle.com/latam/education/certification/#oci",
+      "area": "Ruta hacia la certificación OCI Foundations Associate.",
+      "studyType": "Bootcamp",
+      "startDate": "2025-02-01",
+      "endDate": "2025-07-01",
+      "score": "9.0",
+      "courses": [
+        "Cloud Computing con Oracle Cloud","1","2","3","4","5","6","7","8","9"
       ]
     },
     {
@@ -99,7 +126,7 @@
       "endDate": "2024-12-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "Spring Framework","APIs RESTful","Seguridad en Aplicaciones Java","Bases de Datos con SQL y NoSQL","Despliegue y Automatización","Metodologías Ágiles","Testing y Calidad de Software","Cloud Computing con Oracle Cloud"
       ]
     },
     {
@@ -111,9 +138,10 @@
       "endDate": "2024-07-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "1","2","3","4","5","6","7","8","9"
       ]
-    },{
+    },
+    {
       "institution": "Heavy Duty Camp - HEAVY DUTY BUILDERS",
       "url": "https://heavyduty.builders/",
       "area": "Desarrollo de DApps en Solana.",
@@ -122,7 +150,7 @@
       "endDate": "2024-11-25",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "1","2","3","4","5","6","7","8","9"
       ]
     },
     {
@@ -134,7 +162,7 @@
       "endDate": "2023-12-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "1","2","3","4","5","6","7","8","9"
       ]
     },
     {
@@ -146,7 +174,7 @@
       "endDate": "2023-11-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "1","2","3","4","5","6","7","8","9"
       ]
     },
     {
@@ -158,11 +186,23 @@
       "endDate": "2023-07-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "1","2","3","4","5","6","7","8","9"
       ]
     },
     {
-      "institution": "Argentina Programa - #YoProgramo",
+      "institution": "Marketing digital Digital Ad Certificate - Aleph Group",
+      "url": "https://www.digitaladexpert.com/es/digital-ad-certificate",
+      "area": "Estrategias de Marketing Digital, crear y ejecutar campañas.",
+      "studyType": "Bootcamp",
+      "startDate": "2023-02-05",
+      "endDate": "2023-12-01",
+      "score": "9.0",
+      "courses": [
+        "1","2","3","4","5","6","7","8","9"
+      ]
+    },
+    {
+      "institution": "Argentina Programa - #SéProgramar #YoProgramo",
       "url": "https://www.linkedin.com/school/programa-argentina/",
       "area": "Perfil web Full Stack Java.",
       "studyType": "Bootcamp",
@@ -170,9 +210,11 @@
       "endDate": "2023-12-01",
       "score": "9.0",
       "courses": [
-        "DB1101 - Basic SQL","2","3","4","5","6","7","8","9"
+        "1","2","3","4","5","6","7","8","9"
       ]
-    }],
+    }
+      ],
+
     "awards": [{
       "title": "Award",
       "date": "2014-11-01",
