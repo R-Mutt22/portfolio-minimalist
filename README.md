@@ -1,99 +1,101 @@
-# Portafolio Minimalista Kit: Basico 
+# Portfolio Minimalista
 
-<div align="center">
-<h2>
-    <em>Porfolio</em> minimalista maquetado para web y pdf
-</h2>
-    <p>
-    Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-    </p>
-    <p>
-    Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
-    </p>
-</div>
+Este proyecto es un portafolio web profesional y accesible, desarrollado con Astro y TypeScript, que permite mostrar tu experiencia, formación, habilidades y proyectos de manera clara y elegante. Incluye una lógica pensada para la accesibilidad, navegación rápida mediante atajos de teclado y una modalidad especial para imprimir tu currículum en PDF.
 
-```sh
-npm create astro@latest -- --template basics
+## ✨ Características principales
+
+- **Accesibilidad**: Navegación optimizada para teclado y lectores de pantalla.
+- **Modal de impresión**: Permite mostrar el CV en un formato limpio y listo para imprimir o guardar como PDF.
+- **Personalización sencilla**: Solo edita el archivo `cv.json` para actualizar tu información.
+- **Diseño minimalista y responsive**: Se adapta a cualquier dispositivo.
+- **Atajos de teclado**: Gracias a la integración de Ninja Keys, puedes navegar y acceder a secciones rápidamente.
+- **Stack moderno**: Astro, TypeScript y componentes reutilizables.
+
+## 📁 Estructura del proyecto
+
 ```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-## 🚀 Estructura del proyecto
-
-Dentro de tu proyecto Astro, verás las siguientes carpetas y archivos:
-
-```text
 /
 ├── public/
-│   └── favicon.svg
+│   ├── favicon.svg
 │   └── me.webp
 ├── src/
+│   ├── components/
+│   │   ├── KeyboardManager.astro
+│   │   └── sections/
+│   │       ├── About.astro
+│   │       ├── Education.astro
+│   │       ├── Experience.astro
+│   │       ├── Hero.astro
+│   │       ├── Languages.astro
+│   │       ├── Projects.astro
+│   │       ├── Skills.astro
+│   │       └── Certification.astro
 │   ├── layouts/
 │   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+│   ├── pages/
+│   │   └── index.astro
+│   ├── cv.d.ts
+│   ├── env.d.ts
+│   └── types.d.ts
+├── cv.json
+├── astro.config.mjs
+├── package.json
+└── README.md
 ```
 
-Para obtener más información sobre la estructura de carpetas de un proyecto Astro, consulte [la guía sobre la estructura del proyecto](https://docs.astro.build/en/basics/project-structure/).
+## 🚀 Instalación y uso
 
-## 🧞 Comandos
-
-Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 🛠️ Stack
-
-- [**Astro**](https://astro.build/) - El framework web de la nueva época.
-- [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Menu desplegable con atajos de teclado hecho en puro Javascript.
-
-
-## 🚀 Empezar
-
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
-
-
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
+1. **Clona el repositorio:**
 
 ```bash
-# Activa pnpm en MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
-
-# Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
+git clone https://github.com/R-Mutt22/portfolio-minimalist.git
+cd portfolio-minimalist
 ```
 
-### 2. Añade tu contenido:
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
-### 3. Lanza el servidor de desarrollo:
+2. **Instala las dependencias:**
 
 ```bash
-# Disfruta del resultado
-pnpm dev
+pnpm install # o npm install o yarn install
 ```
 
+3. **Personaliza tu CV:**
 
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
+Edita el archivo `cv.json` con tu información personal, experiencia, educación, certificaciones, habilidades y proyectos.
 
+4. **Inicia el servidor de desarrollo:**
 
-## 🧞 Comandos
+```bash
+pnpm run dev
+```
 
-|     | Comando          | Acción                                        |
-| :-- | :--------------- | :-------------------------------------------- |
-| ⚙️  | `dev` o `start` | Lanza un servidor de desarrollo local en  `localhost:4321`.  |
-| ⚙️  | `build`          | Comprueba posibles errores y hace un empaquetado de producción en `./dist/`.      |
-| ⚙️  | `preview`        | Vista previa en local `localhost:4321` |
+5. **Accede a tu portfolio:**
+
+Abre [http://localhost:4321](http://localhost:4321) en tu navegador.
+
+## 🖨️ Modalidad de impresión
+
+Haz clic en el botón de impresión o usa el atajo de teclado correspondiente para abrir la modal de impresión. El diseño se adapta automáticamente para que puedas imprimir tu CV o guardarlo como PDF, sin elementos innecesarios.
+
+## 🧑‍💻 Comandos útiles
+
+| Comando            | Acción                                              |
+|--------------------|----------------------------------------------------|
+| `pnpm run dev`     | Inicia el servidor de desarrollo                    |
+| `pnpm run build`   | Genera la versión de producción en `./dist/`       |
+| `pnpm run preview` | Previsualiza la versión de producción localmente   |
+
+## 🛡️ Accesibilidad y buenas prácticas
+
+- Navegación por teclado y soporte para lectores de pantalla.
+- Modal de impresión accesible y fácil de usar.
+- Código limpio y modular, fácil de mantener y ampliar.
+
+## 📄 Licencia
+
+MIT. Puedes usar, modificar y compartir este proyecto libremente.
+
+---
+
+¿Listo para destacar tu perfil profesional? ¡Personaliza, imprime y comparte tu portfolio minimalista!
 
 
