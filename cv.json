@@ -6,7 +6,7 @@
       "email": "matiaszelarayandev@gmail.com",
       "phone": "+54 381 000 0000",
       "url": "https://github.com/R-Mutt22",
-      "summary": "Tengo +3 años de experiencia como Desarrollador. Actualmente estudio la Tecnicatura Universitaria en Diseño y Desarrollo de Aplicaciones Multiplataforma de la Universidad Nacional del Noroeste de Buenos Aires. Vivo en Rosario, Argentina. He trabajado en diferentes entornos realizando análisis funcional y requerimientos de sistema, diseño de interfaces y arquitectura. He trabajado en equipos diversos y multidisciplinarios.",
+      "summary": "Desarrolla Jr. con enfoque sólido en Backend con Java Spring Boot y diseño de APIs Restful. Expreriencia en React, autenticación JWT e integración de servicios externos. Tengo +2 años de experiencia Desarrollador. Actualmente estudio la Tecnicatura Universitaria en Diseño y Desarrollo de Aplicaciones Multiplataforma de la Universidad Nacional del Noroeste de Buenos Aires, con +70% de avance y un promedio de 9.5. Vivo en Rosario, Argentina. He trabajado en diferentes entornos realizando análisis funcional y requerimientos de sistema, diseño de interfaces y arquitectura. He trabajado en equipos diversos y multidisciplinarios.",
       "location": {
         "address": "",
         "postalCode": "2000",
@@ -38,7 +38,7 @@
         "name": "Almapiedra SRL",
         "position": "Desarrollador Web",
         "url": "https://almapiedra.com.ar/#!/-inicio/",
-        "startDate": "2023-05-01",
+        "startDate": "2024-03-01",
         "endDate": "2024-05-01",
         "summary": "● Reestructuré la página web desde cero, mejorando la experiencia de usuario (UX) y logrando una mejora del 22% en el tiempo de carga. ● Modernicé el código aplicando buenas prácticas de desarrollo web y optimización para buscadores (SEO básico). ● Diseñé la arquitectura técnica base para la futura integración de un sistema de e-commerce.",
         "highlights": [
@@ -48,8 +48,8 @@
       {
         "name": "Feria ArteCo",
         "position": "Analista de Performance",
-        "url": "https://corrientesarteco.com/",
-        "startDate": "2022-11-01",
+        "url": "https://artecocorrientes.com/",
+        "startDate": "2023-01-01",
         "endDate": "2023-07-01",
         "summary": "● Optimicé y actualicé la plataforma web para mejorar la experiencia de usuario (UX). ● Coordiné la estrategia en redes sociales y diseñé contenido digital para aumentar la visibilidad y el alcance de los eventos. ● Monitoreé métricas clave, logrando un aumento del 35% en la visibilidad en línea.",
         "highlights": [
@@ -70,7 +70,7 @@
     }],
     "education": [{
       "institution": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
-      "url": "https://unnoba.edu.ar/",
+      "url": "https://elegi.unnoba.edu.ar/tecnicatura-en-diseno-y-desarrollo-de-aplicaciones-multiplataforma/",
       "area": "Tecnicatura en diseño y desarrollo de aplicaciones multiplataforma.",
       "studyType": "Tecnicatura",
       "startDate": "2024-02-01",
@@ -78,6 +78,30 @@
       "score": "9.7",
       "courses": [
         "Desarrollo Web","Conceptos de Programación","Introducción al Diseño de Interfaz","Análisis Funcional de Aplicaciones Web","Planificación de Proyectos","Maquetación y Desarrollo Web I","Protocolo y Arquitectura Web","Desarrollo de Aplicaciones para Dispositivos Móviles","Sistemas Operativos","Inglés Técnico","Diseño Interactivo","Introducción a la Base de Datos","Maquetación y Desarrollo Web II","Programación Full Stack","Programación Dinámica","Emprendimiento de Negocios","Práctica Profesional y Legislación","Marketing Digital","Seguridad Informática","Proyecto Final"
+      ]
+    },
+    {
+      "institution": "Universidad Nacional de Jujuy",
+      "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
+      "area": "Diplomatura en Gestión de Proyectos Culturales.",
+      "studyType": "Licenciatura",
+      "startDate": "2020-02-01",
+      "endDate": "2021-07-01",
+      "score": "9.7",
+      "courses": [
+        "Gestión Cultural","Políticas Culturales","Economía de la Cultura","Marketing Cultural","Producción de Eventos Culturales","Proyecto de Gestión Cultural"
+      ]
+    },
+  {
+      "institution": "Universidad Nacional de Tucumán",
+      "url": "https://www.artes.unt.edu.ar/carreras/licenciatura-en-artes-visuales/",
+      "area": "Licenciatura en Artes Visuales. On hold.",
+      "studyType": "Licenciatura",
+      "startDate": "2009-02-01",
+      "endDate": "2013-07-01",
+      "score": "9.7",
+      "courses": [
+        "Historia del Arte","Teoría y Crítica del Arte","Taller de Producción Artística I","Taller de Producción Artística II","Taller de Producción Artística III","Taller de Producción Artística IV","Estética y Filosofía del Arte","Sociología del Arte","Psicología del Arte","Gestión Cultural","Seminario de Investigación I","Seminario de Investigación II","Proyecto Final de Carrera"
       ]
     }],
       "certification": [
@@ -144,7 +168,7 @@
     {
       "institution": "Heavy Duty Camp - HEAVY DUTY BUILDERS",
       "url": "https://heavyduty.builders/",
-      "area": "Desarrollo de DApps en Solana.",
+      "area": "Desarrollo full stack Rust Anchor React.",
       "studyType": "Bootcamp",
       "startDate": "2024-02-01",
       "endDate": "2024-11-25",
@@ -168,7 +192,7 @@
     {
       "institution": "Universidad Tecnológica Nacional - Argentina Programa 4.0",
       "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.argentina.gob.ar/sites/default/files/13._utn_-_desarrollador_java.pdf",
-      "area": "Desarrollo Java. Especialización Backend Java.",
+      "area": "Desarrollo Java intermedio. Especialización Backend Java.",
       "studyType": "Curso",
       "startDate": "2023-07-05",
       "endDate": "2023-11-01",
@@ -180,7 +204,7 @@
     {
       "institution": " Universidad Nacional de Rosario - Extensión Escuela de Oficios",
       "url": "https://unr.edu.ar/oficios/",
-      "area": "Desarrollo de software, programación Java para desktop apps.",
+      "area": "Desarrollo de software, programación Java Swing.",
       "studyType": "Curso",
       "startDate": "2023-01-05",
       "endDate": "2023-07-01",
@@ -204,7 +228,7 @@
     {
       "institution": "Argentina Programa - #SéProgramar #YoProgramo",
       "url": "https://www.linkedin.com/school/programa-argentina/",
-      "area": "Perfil web Full Stack Java.",
+      "area": "Perfil web Full Stack Java Angular.",
       "studyType": "Bootcamp",
       "startDate": "2022-02-05",
       "endDate": "2023-12-01",
@@ -348,7 +372,7 @@
       },
       {
         "language": "Inglés",
-        "fluency": "Intermedio"
+        "fluency": "Técnico"
       }
     ],
     "interests": [{
@@ -364,66 +388,75 @@
     }],
     "projects": [
       {
-        "name": "Almapiedra SRL",
+        "name": "Fundación Medjugorje Argentina",
         "isActive": true,
-        "description": "Restauración de inmuebles y objetos de valor patrimonial",
-        "highlights": [
-          "Diseño reponsive",
-          "En desarrollo"
-        ],
-        "url": "https://almapiedra.com.ar/"
-      },
-      {
-        "name": "ArteCo",
-        "isActive": true,
-        "description": "impulsar el desarrollo y la expansión del sector artístico, promoviendo la difusión y venta de obras de arte de nuestro país y los países limítrofes.",
+        "description": "Plataforma a medida de gestión y organización de eventos religiosos",
         "highlights": [
           "Diseño reponsive",
           "Multiplataforma",
-          "JavaScript & TypeScript"
+          "React & Django",
+          "En desarrollo"
         ],
-        "url": "https://corrientesarteco.com/"
+        "url": "https://github.com/matiaszelarayan/Medjugorje-"
       },
       {
-        "name": "Web Juani Cabruja",
+        "name": "Medihub MVP",
+        "isActive": false,
+        "description": "Aplicación web para clínicas y centros de salud; centraliza la gestión de citas médicas (presenciales y virtuales) y el historiales clínicos.",
+        "highlights": [
+          "Microservicios",
+          "Multiplataforma",
+          "React & Java Spring Boot",
+          "Open Source"
+        ],
+        "url": "https://github.com/nc-proyectos/Medihub/tree/main"
+      },
+      {
+        "name": "PetCare Platform MVP",
+        "isActive": false,
+        "description": " Aplicación web de gestión de servicios para mascotas; reservar paseos, cuidados y supervisar la calidad del servicio.",
+        "highlights": [
+          "React + Vite",
+          "APIs RESTful",
+          "Spring Boot",
+          "arquitectura MVC"
+        ],
+        "url": "https://github.com/R-Mutt22/equipo5-petcare-frontend"
+      },
+      {
+        "name": "Skill Link MVP",
+        "isActive": false,
+        "description": "Plataforma web que impulsa el crecimiento profesional de desarrolladores; conecta con mentores y participa en desafíos técnicos.",
+        "highlights": [
+          "APIs RESTful",
+          "Spring Websocket",
+          "3er puesto Hackathon Alumnithon Bad Batch"
+        ],
+        "url": "https://github.com/R-Mutt22/alumnithon-bad-batch-backend"
+      },
+      {
+        "name": "Event Manager MVP",
         "isActive": true,
-        "description": "Artista visual, VJ",
+        "description": "Administrador de eventos descentralizados basado en blockchain de Solana; crea, gestiona y verifica eventos con seguridad y transparencia.",
         "highlights": [
-          "+2000 usuarios activos",
-          "Productos y servicios"
+          "Rust & Anchor",
+          "Solana Blockchain",
+          "React & Tailwind",
+          "En desarrollo"
         ],
-        "url": "https://codember.dev"
+        "url": "https://github.com/R-Mutt22/event-manager"
       },
       {
-        "name": "codi.link",
+        "name": "Landing Barber",
         "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
+        "description": "Proyecto para una barbería Landing; busca atraer nuevos clientes y dar información sobre los servicios y el equipo de la barbería.",
         "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
+          "Diseño reponsive",
+          "Accesibilidad",
+          "Multiplataforma",
+          "Astro"
         ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+        "url": "https://r-mutt22.github.io/landing-barber/"
       }
     ]
   }
